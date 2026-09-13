@@ -1,6 +1,6 @@
-# TCPioneer Labs
+# TC Pioneer Labs
 
-TCPioneer Labs is the experimental and development area of The Cyber Pioneer, focused on building, testing, and presenting cybersecurity tools and experimental projects.
+TC Pioneer Labs is the experimental and development area of TC Pioneer, focused on building, testing, and presenting cybersecurity tools and experimental projects.
 
 ## Status
 
@@ -50,7 +50,7 @@ Any security tools or experiments published here should only be used on systems 
 
 ## Project
 
-Part of The Cyber Pioneer ecosystem and my broader work across cybersecurity research and software development.
+Part of the TC Pioneer ecosystem and my broader work across cybersecurity research and software development.
 
 ## Author
 
